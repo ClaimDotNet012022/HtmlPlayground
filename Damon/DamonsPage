@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script></script>
+</head>
+<body>
+    <h1>Damon'Academy</h1>
+    <h2>HTML Playground</h2>
+    <iframe width="460" height="215" src="https://www.youtube.com/embed/QxGK9cIyXcI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <h3>1337h4x0rC0d3z</h3>
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Aybabtu.png/220px-Aybabtu.png" alt=""/>
+    
+    <p>All your base are belong to us. :) </p>
+
+    <p>Click here to go back to Example:
+        <ul>
+            <li><a href="Eric/eric.html">Example page</a></li>
+        </ul>
+    </p>
+</body>
+</html>
